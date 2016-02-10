@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    primesieve (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  primesieve
+
+BUNDLED WITH
+   1.11.2
